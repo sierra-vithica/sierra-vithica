@@ -10,7 +10,7 @@ With all that said, here’s a bit of my background in the industry. I graduated
 Onto the fun stuff! Of course, no developer is complete without a quirky set of interesting personalities and traits, of which I have no shortage. First, if I’m a little shy or anxious initially, please don’t take it personally, I promise I open up pretty quickly once I get to know you. <3 Most people don’t really know this about me, but I’m neurodivergent and on the spectrum, so some social situations can pose a bit of a challenge to me at times. I’m also transgender (she/her pronouns) and I live with 4 of my partners in a polycule here in Seattle, and truthfully I wouldn’t have it any other way. Did I mention Seattle is a super awesome place to live? If I haven’t - it is and I love it. When I’m not glued to my keyboard I can be found gaming on my Steam Deck, playing MTG, Hacking & Tinkering, collecting Pokémon cards, or taking long, relaxing walks with my partners. 
 
 ## 💻 Latest Tech Explorations
-In parting I’d love to share some of most favorite technologies, tools, platforms, languages and stacks as of 2023. These are the ones I’m currently working with and/or keeping my eyes out for:
+In parting I’d love to share some of most favorite technologies, tools, platforms, languages and stacks as of 2024. These are the ones I’m currently working with and/or keeping my eyes out for:
 
 <img width="200" align="left" src="https://a-us.storyblok.com/f/1017811/568x808/b3ff09ab63/github-sierra-about.png" alt="About Sierra Layla Vithica"/> 
 
