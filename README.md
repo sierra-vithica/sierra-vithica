@@ -40,3 +40,4 @@ In parting I’d love to share some of most favorite technologies, tools, platfo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierra-vithica&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Sierra Vithica's GitHub Stats" />
 </div>
 
+<img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/output/snake.svg" alt="Snake animation" />
