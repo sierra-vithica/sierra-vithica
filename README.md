@@ -34,5 +34,3 @@ In parting I’d love to share some of most favorite technologies, tools, platfo
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma) 
 ![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify) 
 
-## Stats 'n Stuff!
-<img src="https://streak-stats.demolab.com?user=sierra-vithica&theme=prussian&hide_border=true" alt="Sierra Vithica's GitHub Stats" />
