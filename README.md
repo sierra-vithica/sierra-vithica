@@ -1,6 +1,6 @@
 <img src="https://a-us.storyblok.com/f/1017811/1920x900/0bf23e18aa/github-sierra-hero.jpg" alt="Hello, I'm Sierra! Welcome to my GitHub Page."/>
 
-<img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/output/snake.svg?cache" alt="Snake animation" />
 
 ## About Me
 I'm a web developer and software engineer based out of Seattle, WA and I absolutely adore software development. Writing good, clean code that makes something magical happen can be akin to a writer or poet putting pen to paper to tell an emotional and epic story. It certainly doesn’t have to be a boring, tedious, or as often portrayed - complicated thing. I find that taking time to self-educate is what fuels my passion in this industry. As technology changes so do the tools and practices of the trade, it’s never boring or dull and there’s always more to learn if you’re curious and the desire is there. 
