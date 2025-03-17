@@ -36,6 +36,6 @@ In parting I’d love to share some of most favorite technologies, tools, platfo
 
 ## Stats 'n Stuff!
 <div style="display: flex;">
-  <img src="https://streak-stats.demolab.com?user=sierra-vithica&theme=dracula&hide_border=true" alt="Sierra Vithica's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierra-vithica&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Sierra Vithica's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sierra-vithica&theme=prussian&hide_border=true" alt="Sierra Vithica's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierra-vithica&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="Sierra Vithica's GitHub Stats" />
 </div>
