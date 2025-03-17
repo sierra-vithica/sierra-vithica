@@ -3,8 +3,6 @@
 ## 👩🏻‍💻 About Me
 I'm a web developer and software engineer based out of Seattle, WA and I absolutely adore software development. Writing good, clean code that makes something magical happen can be akin to a writer or poet putting pen to paper to tell an emotional and epic story. It certainly doesn’t have to be a boring, tedious, or as often portrayed - complicated thing. I find that taking time to self-educate is what fuels my passion in this industry. As technology changes so do the tools and practices of the trade, it’s never boring or dull and there’s always more to learn if you’re curious and the desire is there. 
 
-<a href="https://app.daily.dev/sierravithica"><img src="https://api.daily.dev/devcards/v2/fSoHwX6emdcRFMU5GE7Nb.png?type=wide&r=ggo" width="652" alt="Sierra Layla Vithica's Dev Card"/></a>
-
 ## 🎓 Background & Industry Knowledge
 With all that said, here’s a bit of my background in the industry. I graduated with honors from Millersville University of Pennsylvania in 2012 and have Bachelors Degree in Computer Science. From there I had the pleasure of getting to learn and grow at several top Software Development and Digital Marketing firms across the country. The root of my experience began with developing large-scale, database driven, custom CRM tools. Next I moved on to developing WordPress sites for a wealth of customers across a broad spectrum of B2B and B2C markets; I did this for about 10 years or so. More recently I’ve started to get into progressive and modern web technology stacks. (e.g. Headless, JAMStack, micro-service type development). Currently I’m engaged as a Senior Software Engineer for Bear Group - largely focusing on Shopify development (Headless Sites, Themes, Custom Apps, Checkout UI Extensions, etc...)
 
@@ -35,3 +33,10 @@ In parting I’d love to share some of most favorite technologies, tools, platfo
 
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma) 
 ![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify) 
+
+## 📊 Stats 'n Stuff!
+<div style="display: flex;">
+  <img src="https://streak-stats.demolab.com?user=sierra-vithica&theme=dracula&hide_border=true" alt="Sierra Vithica's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierra-vithica&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Sierra Vithica's GitHub Stats" />
+</div>
+
