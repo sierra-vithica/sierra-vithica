@@ -2,21 +2,37 @@
 
 <img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/refs/heads/output/snake.svg" alt="Snake animation" />
 
-## About Me
-I'm a web developer and software engineer based out of Seattle, WA and I absolutely adore software development. Writing good, clean code that makes something magical happen can be akin to a writer or poet putting pen to paper to tell an emotional story. It certainly doesn’t have to be a boring, tedious, or as often portrayed - complicated thing. I find that taking time to self-educate is what fuels my passion in this industry. As technology changes so do the tools and practices of the trade, it’s never boring or dull and there’s always more to learn if you’re curious and the desire is there. 
+## 🌺 Hello & Welcome
 
-## Background & Industry Knowledge
-With all that said, here’s a bit of my background in the industry. I graduated with honors from Millersville University of Pennsylvania in 2012 and have Bachelors Degree in Computer Science. From there I had the pleasure of getting to learn and grow at several top Software Development and Digital Marketing firms across the country. The root of my experience began with developing large-scale, database driven, custom CRM tools. Next I moved on to developing WordPress sites for a wealth of customers across a broad spectrum of B2B and B2C markets; I did this for about 10 years or so. More recently I’ve started to get into progressive and modern web technology stacks. (e.g. Headless, JAMStack, micro-service type development). Currently I’m engaged as a Senior Software Engineer for Bear Group - largely focusing on Shopify development (Headless Sites, Themes, Custom Apps, Checkout UI Extensions, etc...)
+Hi there! I’m Sierra Layla Vithica - a web developer and software engineer based in the cozy, rainy heart of Seattle, WA. I’ve been in love with code ever since I was little and learned it could feel just like writing poetry. There’s a quiet magic in writing clean, expressive code that solves a human-centric problem with elegance and grace.
 
-## Personal & Life
-Onto the fun stuff! Of course, no developer is complete without a quirky set of interesting personalities and traits, of which I have no shortage. First, if I’m a little shy or anxious initially, please don’t take it personally, I promise I open up pretty quickly once I get to know you. <3 Most people don’t really know this about me, but I’m neurodivergent and on the spectrum, so some social situations can pose a bit of a challenge to me at times. I’m also transgender (she/her pronouns) and I live with 4 of my partners in a polycule here in Seattle, and truthfully I wouldn’t have it any other way. Did I mention Seattle is a super awesome place to live? If I haven’t - it is and I love it. When I’m not glued to my keyboard I can be found gaming on my Steam Deck, playing MTG, Hacking & Tinkering, collecting Pokémon cards, or taking long, relaxing walks with my partners. I’m also deeply moved by uplifting trance music - there’s something about those soaring melodies and emotional drops that really speak to my heart.
+To me, software development isn’t dry or overly complicated; it’s an evolving art form. I thrive on self-education and believe curiosity is the best fuel in this ever-changing field. There’s always something new to explore and that’s what makes this journey so exciting.
 
-## Latest Tech Explorations
-In parting I’d love to share some of most favorite technologies, tools, platforms, languages and stacks as of 2025. These are the ones I’m currently working with and/or keeping my eyes out for:
+
+## 📚 My Background in Tech
+
+I hold a Bachelor’s Degree in Computer Science (graduated with honors from Millersville University of Pennsylvania in 2012), and I’ve been working professionally ever since. Over the years, I’ve had the joy of building everything from large-scale custom CRM platforms to elegant marketing websites across a wide array of industries.
+
+For about a decade, I specialized in WordPress development for B2B and B2C clients, but more recently I’ve fallen in love with modern, progressive web stacks - headless architecture, JAMstack, microservices, all the good stuff. These days, I’m a Senior Software Engineer at Bear Group, where I focus heavily on Shopify development: headless builds, custom themes, bespoke apps, and Checkout UI extensions.
+
+
+## 🪴 The Human Side of Me
+
+Behind the keyboard, I’m just a soft-hearted, slightly anxious, neurodivergent girl navigating the world in her own way. I’m autistic, ADHD, and proudly transgender (she/her 🏳️‍⚧️). I live in Seattle with my beautiful polycule of four amazing partners who fill my life with love, laughter, and plenty of nerdy joy on the daily.
+
+When I’m not building something on the web, you can probably find me curled up with my Steam Deck, tinkering with code, playing MTG, collecting Pokémon cards, or wandering around the city on a quiet walk. I’m also a huge lover of uplifting trance music—there’s something about those soaring melodies and emotional drops (hello, Gareth Emery!) that just fills my heart to the brim with joy.
+
+
+## 💌 Let’s Connect
+
+If anything here resonates, feel free to reach out! I love connecting with other thoughtful developers, creative minds, and kind souls. Whether you’re building something cool, want to swap tech tips, or just share playlists—my inbox is always open. 
+
+<br/>
 
 <img width="200" align="left" src="https://a-us.storyblok.com/f/1017811/568x808/b3ff09ab63/github-sierra-about.png" alt="About Sierra Layla Vithica"/> 
 
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-IDE-8e7abe?style=for-the-badge&logo=phpstorm) 
+![VSCode](https://img.shields.io/badge/VSCode-IDE-3e8acc?style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-Language-777BB4?style=for-the-badge&logo=php) 
