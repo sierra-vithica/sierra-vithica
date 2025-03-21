@@ -20,12 +20,12 @@ For about a decade, I specialized in WordPress development for B2B and B2C clien
 
 Behind the keyboard, I’m just a soft-hearted, slightly anxious, neurodivergent girl navigating the world in her own way. I’m autistic, ADHD, and proudly transgender (she/her 🏳️‍⚧️). I live in Seattle with my beautiful polycule of four amazing partners who fill my life with love, laughter, and plenty of nerdy joy on the daily.
 
-When I’m not building something on the web, you can probably find me curled up with my Steam Deck, tinkering with code, playing MTG, collecting Pokémon cards, or wandering around the city on a quiet walk. I’m also a huge lover of uplifting trance music—there’s something about those soaring melodies and emotional drops (hello, Gareth Emery!) that just fills my heart to the brim with joy.
+When I’m not building something on the web, you can probably find me curled up with my Steam Deck, tinkering with code, playing MTG, collecting Pokémon cards, or wandering around the city on a quiet walk. I’m also a huge lover of uplifting trance music. There’s something about those soaring melodies and emotional drops (hello, Gareth Emery!) that just fills my heart to the brim with joy.
 
 
 ## 💌 Let’s Connect
 
-If anything here resonates, feel free to reach out! I love connecting with other thoughtful developers, creative minds, and kind souls. Whether you’re building something cool, want to swap tech tips, or just share playlists—my inbox is always open. 
+If anything here resonates, feel free to reach out! I love connecting with other thoughtful developers, creative minds, and kind souls. Whether you’re building something cool, want to swap tech tips, or just share playlists - my inbox is always open. 
 
 <br/>
 
