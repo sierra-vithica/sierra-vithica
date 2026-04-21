@@ -1,6 +1,7 @@
 <img src="https://a-us.storyblok.com/f/1017811/1920x900/0bf23e18aa/github-sierra-hero.jpg" alt="Hello, I'm Sierra! Welcome to my GitHub Page."/>
 
 <img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/refs/heads/output/snake.svg" alt="Snake animation" />
+
 ## 🌺 Hello & Welcome
 Hi there! I'm Sierra Layla Vithica - a web developer and software engineer based in the cozy, rainy heart of Seattle, WA. I've been in love with code ever since I was little and learned it could feel just like writing poetry. There's a quiet magic in writing clean, expressive code that solves a human-centric problem with elegance and grace.
 
