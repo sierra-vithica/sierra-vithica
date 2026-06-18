@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/refs/heads/output/snake.svg" alt="Snake animation" />
 
-<a href="https://app.daily.dev/puppy"><img src="./devcard.png" width="356" alt="Sierra's Dev Card"/></a>
+<a href="https://app.daily.dev/puppy"><img src="./devcard.png" width="652" alt="Sierra's Dev Card"/></a>
 
 ## 🌺 Hello & Welcome
 Hi there! I'm Sierra Layla Vithica - a web developer and software engineer based in the cozy, rainy heart of Seattle, WA. I've been in love with code ever since I was little and learned it could feel just like writing poetry. There's a quiet magic in writing clean, expressive code that solves a human-centric problem with elegance and grace.
