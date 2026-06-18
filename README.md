@@ -28,29 +28,35 @@ When I'm not building something on the web, you can probably find me curled up w
 If anything here resonates, feel free to reach out! I love connecting with other thoughtful developers, creative minds, and kind souls. Whether you're building something cool, want to swap tech tips, or just share playlists - my inbox is always open.
 
 <br/>
+<table>
+<tr>
+<td width="220" valign="top">
 
-<img width="200" align="left" src="https://a-us.storyblok.com/f/1017811/568x808/b3ff09ab63/github-sierra-about.png" alt="About Sierra Layla Vithica"/> 
+<img src="https://a-us.storyblok.com/f/1017811/568x808/b3ff09ab63/github-sierra-about.png" width="200" alt="About Sierra Layla Vithica"/>
+
+</td>
+<td valign="top">
 
 ![Claude](https://img.shields.io/badge/Claude-AI%20Agent-c7785e?style=for-the-badge&logo=claudecode)
-![Obsidian](https://img.shields.io/badge/Osidian-LLM%20Wiki%20&%20Notes-9475f0?style=for-the-badge&logo=obsidian)
+![Obsidian](https://img.shields.io/badge/Obsidian-LLM%20Wiki%20&%20Notes-9475f0?style=for-the-badge&logo=obsidian)
 ![Granola](https://img.shields.io/badge/Granola-AI%20Meeting%20Notes-afbb59?style=for-the-badge)
-
-![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify) 
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma) 
+![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma)
 ![Cursor](https://img.shields.io/badge/Cursor-IDE-8e7abe?style=for-the-badge&logo=cursor)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-IDE-8e7abe?style=for-the-badge&logo=phpstorm) 
-
+![PHPStorm](https://img.shields.io/badge/PHPStorm-IDE-8e7abe?style=for-the-badge&logo=phpstorm)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-Language-777BB4?style=for-the-badge&logo=php) 
-
-![React](https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react) 
-![Vue](https://img.shields.io/badge/Vue-Framework-4FC08D?style=for-the-badge&logo=vuedotjs) 
+![PHP](https://img.shields.io/badge/PHP-Language-777BB4?style=for-the-badge&logo=php)
+![React](https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue-Framework-4FC08D?style=for-the-badge&logo=vuedotjs)
 ![Next](https://img.shields.io/badge/Next-Meta_Framework-000000?style=for-the-badge&logo=nextdotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt-Meta_Framework-00DC82?style=for-the-badge&logo=nuxtdotjs) 
-
-![StoryBlok](https://img.shields.io/badge/StoryBlok-CMS-09B3AF?style=for-the-badge&logo=storyblok) 
+![Nuxt](https://img.shields.io/badge/Nuxt-Meta_Framework-00DC82?style=for-the-badge&logo=nuxtdotjs)
+![StoryBlok](https://img.shields.io/badge/StoryBlok-CMS-09B3AF?style=for-the-badge&logo=storyblok)
 ![Prismic](https://img.shields.io/badge/Prismic-CMS-5163BA?style=for-the-badge&logo=prismic)
-![Sanity](https://img.shields.io/badge/Sanity-CMS-f03f2e?style=for-the-badge) 
+![Sanity](https://img.shields.io/badge/Sanity-CMS-f03f2e?style=for-the-badge)
+
+</td>
+</tr>
+</table>
 
 ----
 <p align="center">
