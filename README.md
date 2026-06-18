@@ -1,8 +1,8 @@
+<p align="center">
 <img src="https://a-us.storyblok.com/f/1017811/1920x900/0bf23e18aa/github-sierra-hero.jpg" alt="Hello, I'm Sierra! Welcome to my GitHub Page."/>
 
 <img src="https://raw.githubusercontent.com/sierra-vithica/sierra-vithica/refs/heads/output/snake.svg" alt="Snake animation" />
-
-<a href="https://app.daily.dev/puppy"><img src="./devcard.png" width="652" alt="Sierra's Dev Card"/></a>
+</p>
 
 ## 🌺 Hello & Welcome
 Hi there! I'm Sierra Layla Vithica - a web developer and software engineer based in the cozy, rainy heart of Seattle, WA. I've been in love with code ever since I was little and learned it could feel just like writing poetry. There's a quiet magic in writing clean, expressive code that solves a human-centric problem with elegance and grace.
@@ -31,15 +31,20 @@ If anything here resonates, feel free to reach out! I love connecting with other
 
 <img width="200" align="left" src="https://a-us.storyblok.com/f/1017811/568x808/b3ff09ab63/github-sierra-about.png" alt="About Sierra Layla Vithica"/> 
 
+![Claude](https://img.shields.io/badge/Claude-AI%20Agent-c7785e?style=for-the-badge&logo=claudecode)
+![Obsidian](https://img.shields.io/badge/Osidian-LLM%20Wiki%20&%20Notes-9475f0?style=for-the-badge&logo=obsidian)
+![Granola](https://img.shields.io/badge/Granola-AI%20Meeting%20Notes-afbb59?style=for-the-badge)
+
+![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify) 
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma) 
+![Cursor](https://img.shields.io/badge/Cursor-IDE-8e7abe?style=for-the-badge&logo=cursor)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-IDE-8e7abe?style=for-the-badge&logo=phpstorm) 
-![VSCode](https://img.shields.io/badge/VSCode-IDE-3e8acc?style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-Language-777BB4?style=for-the-badge&logo=php) 
 
 ![React](https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react) 
 ![Vue](https://img.shields.io/badge/Vue-Framework-4FC08D?style=for-the-badge&logo=vuedotjs) 
-
 ![Next](https://img.shields.io/badge/Next-Meta_Framework-000000?style=for-the-badge&logo=nextdotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-Meta_Framework-00DC82?style=for-the-badge&logo=nuxtdotjs) 
 
@@ -47,6 +52,7 @@ If anything here resonates, feel free to reach out! I love connecting with other
 ![Prismic](https://img.shields.io/badge/Prismic-CMS-5163BA?style=for-the-badge&logo=prismic)
 ![Sanity](https://img.shields.io/badge/Sanity-CMS-f03f2e?style=for-the-badge) 
 
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma) 
-![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify) 
-
+----
+<p align="center">
+<a href="https://app.daily.dev/puppy"><img src="./devcard.png" width="652" alt="Sierra's Dev Card"/></a>
+</p>
