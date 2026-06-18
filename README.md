@@ -40,20 +40,16 @@ If anything here resonates, feel free to reach out! I love connecting with other
 ![Claude](https://img.shields.io/badge/Claude-AI%20Agent-c7785e?style=for-the-badge&logo=claudecode)
 ![Obsidian](https://img.shields.io/badge/Obsidian-LLM%20Wiki%20&%20Notes-9475f0?style=for-the-badge&logo=obsidian)
 ![Granola](https://img.shields.io/badge/Granola-AI%20Meeting%20Notes-afbb59?style=for-the-badge)
-
 ![Shopify](https://img.shields.io/badge/Shopify-ECommerce-7AB55C?style=for-the-badge&logo=shopify)
 ![Wordpress](https://img.shields.io/badge/Wordpress-CMS-7AB55C?style=for-the-badge&logo=wordpress)
-
 ![Cursor](https://img.shields.io/badge/Cursor-IDE-8e7abe?style=for-the-badge&logo=cursor)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-IDE-8e7abe?style=for-the-badge&logo=phpstorm)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-Language-777BB4?style=for-the-badge&logo=php)
 ![React](https://img.shields.io/badge/React-Framework-61DAFB?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/Vue-Framework-4FC08D?style=for-the-badge&logo=vuedotjs)
 ![Next](https://img.shields.io/badge/Next-Meta_Framework-000000?style=for-the-badge&logo=nextdotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-Meta_Framework-00DC82?style=for-the-badge&logo=nuxtdotjs)
-
 ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma)
 ![Claude Design](https://img.shields.io/badge/Claude%20Design-Design-F24E1E?style=for-the-badge&logo=claude)
 
